@@ -8,7 +8,7 @@ Jump Tool is a simple Bash script that makes it easy to navigate to a directory 
 
 To use Jump Tool, simply type the following command:
 
-      `j [directory_name]`
+        `jump [directory_name]`
 
 Replace `[directory_name]` with the name of the directory you want to find.
 
