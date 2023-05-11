@@ -17,7 +17,8 @@ Replace `[directory_name]` with the name of the directory you want to find.
             ` git clone https://github.com/ACHUX21/jump-tool.git
             cd /jump-tool
             chmod +x *.sh
-            ./setup.sh`
+            ./setup.sh
+            alias jump='. j'`
 
 ## How it Works
 
