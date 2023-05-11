@@ -19,7 +19,8 @@ Replace `[directory_name]` with the name of the directory you want to find.
             chmod +x *.sh
             ./setup.sh
             alias jump='. j'`
-
+                
+                add "alias jump='. j'" in your .bashrc or .zshrc
 ## How it Works
 
 Jump Tool uses the `find` command to search for all directories in the file system. It then filters the results to only include directories that match the provided name. Finally, it changes the current directory to the first result.
