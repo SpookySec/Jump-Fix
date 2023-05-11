@@ -29,9 +29,6 @@ Jump Tool uses the `find` command to search for all directories in the file syst
 
 Jump Tool requires Bash to run. It has been tested on Linux.
 
-## Contributing
-
-Feel free to submit bug reports, feature requests, or pull requests. Contributions are welcome and appreciated! Please see [CONTRIBUTING.md](https://github.com/ACHUX21/jump-tool/blob/main/CONTRIBUTING.md) for more information.
 
 ## Acknowledgements
 
