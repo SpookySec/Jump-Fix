@@ -12,6 +12,13 @@ To use Jump Tool, simply type the following command:
 
 Replace `[directory_name]` with the name of the directory you want to find.
 
+## Quick-Install
+
+` git clone https://github.com/ACHUX21/jump-tool.git
+  cd /jump-tool
+  chmod +x *.sh
+  ./setup.sh`
+
 ## How it Works
 
 Jump Tool uses the `find` command to search for all directories in the file system. It then filters the results to only include directories that match the provided name. Finally, it changes the current directory to the first result.
