@@ -20,7 +20,7 @@ Replace `[directory_name]` with the name of the directory you want to find.
             ./setup.sh
             alias jump='. j'`
                 
-   add "alias jump='. j'" in your .bashrc or .zshrc
+   add `"alias jump='. j'"` in your `.bashrc or .zshrc`
 
 ## How it Works
 
