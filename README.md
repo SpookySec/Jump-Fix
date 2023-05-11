@@ -10,7 +10,7 @@ To use Jump Tool, simply type the following command:
 
         `jump [directory_name]`
 
-Replace `[directory_name]` with the name of the directory you want to find.
+Replace `[directory_name]` with the name of the directory .
 
 ## Quick-Install
 
