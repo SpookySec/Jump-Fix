@@ -32,4 +32,4 @@ Jump Tool requires Bash to run. It has been tested on Linux.
 
 ## Acknowledgements
 
-Jump Tool was created by ACHUX21 as a sample project. 
+Jump Tool was created by ACHUX21 . 
