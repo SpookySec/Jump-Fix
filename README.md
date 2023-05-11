@@ -1,6 +1,6 @@
 # Jump Tool
 
-![Jump Tool](https://i.imgur.com/kVl8oV3.png)
+![Jump Tool](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2F2062498%2Fstock-photo-hello-world.html&psig=AOvVaw2rssXshcyOCsCWxGsIP0q0&ust=1683907233678000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCFrbbR7f4CFQAAAAAdAAAAABAE)
 
 Jump Tool is a simple Bash script that makes it easy to navigate to a directory in the file system. No more typing long paths - just jump to your desired directory with a single command!
 
